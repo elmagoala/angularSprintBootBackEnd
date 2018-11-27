@@ -9,4 +9,5 @@ public class AngularSpringBootApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AngularSpringBootApplication.class, args);
 	}
+
 }
